@@ -1,0 +1,8 @@
+name Sadegh
+id 0406945908
+photo nowhere
+game 0
+point 0
+goal 0
+stat 0 0 0
+score 0

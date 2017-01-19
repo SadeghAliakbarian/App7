@@ -1,0 +1,9 @@
+F:\App7\App7\obj\Release\android\assets\App7.dll
+F:\App7\App7\obj\Release\android\assets\Java.Interop.dll
+F:\App7\App7\obj\Release\android\assets\Mono.Android.dll
+F:\App7\App7\obj\Release\android\assets\mscorlib.dll
+F:\App7\App7\obj\Release\android\assets\System.Core.dll
+F:\App7\App7\obj\Release\android\assets\System.dll
+F:\App7\App7\obj\Release\android\assets\System.Xml.dll
+F:\App7\App7\obj\Release\android\assets\System.Runtime.Serialization.dll
+F:\App7\App7\obj\Release\android\assets\System.ServiceModel.Internals.dll
